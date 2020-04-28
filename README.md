@@ -1,2 +1,2 @@
-# Bienvenido al curso de Gitbhub para desarrolladores. 
+# Bienvenido al curso de Github para desarrolladores. 
 curso Git
